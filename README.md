@@ -19,7 +19,8 @@
     5) $ touch home-routes stats-model.js index.js
         1.01) This command will create empty files with the proper naming conventions for our app
     6) In a seperate window you can open the MERN--Server-from-scratch repo and I would recommend coding line by line instead of copy and pasting.
-    7) Shortly, I will have a link to a youtube video going into further explanation
+    7) Youtube video, indept explanation
+        1.01) https://www.youtube.com/watch?v=DWwDCNuHt4U
     8) Use `$ nodemon` or `$ node index.js ` to launch the server.
         1.01) You should see 'connected to the db'
         

@@ -1,5 +1,5 @@
 # Introduction
-Hi web devs!  This tutorial is intended for a beginner who wants to get a MERN server up and running from scratch on Windows. The Mongodb website also has a useful ai chatbot for any specific questions regarding the Windows CL commands for MONGOSH and mongod as a Windows service.
+Hi web devs!  This tutorial is intended for a beginner who wants to get a MERN server up and running from scratch on Windows. The Mongodb website also has a useful ai chatbot for any specific questions regarding the Windows CL commands for MONGOSH and `mongod` as a Windows service.
 
 # Prerequisites
 1) Installation of Mongodb as service

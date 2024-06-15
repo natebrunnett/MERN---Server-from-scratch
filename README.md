@@ -16,6 +16,7 @@ Download the installer (.msi) => https://www.mongodb.com/try/download/community
            => https://www.mongodb.com/products/tools/compass
         Once complete, Compass will launch and click the connect button, to ensure everything is running
            Upon a successful connect, all collections will be displayed.
+           This is all for now.
 ```   
 2) Postman Installation
 ```

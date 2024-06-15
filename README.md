@@ -4,22 +4,23 @@ Hi web devs!  This tutorial is intended for a beginner who wants to get a MERN s
 # Prerequisites
 1) Installation of Mongodb as service
 
-        Download the installer (.msi) => https://www.mongodb.com/try/download/community
+```
+Download the installer (.msi) => https://www.mongodb.com/try/download/community
         Run the .msi
            Next, next, next all the way to finish
            Just use the default location
            By default the .msi will install MongoDB Compass and install as a Windows Service (and run)
            At the end make sure to approve as Administator on Windows
            The MongoDB Compass installation can hang for 10 minutes (this is normal)
-       If for some reason MongoDB Compass doesn't install here is the link
-           https://www.mongodb.com/products/tools/compass
-       Once complete, Compass will launch and click the connect button, to ensure everything is running
+        If for some reason MongoDB Compass doesn't install here is the link
+           => https://www.mongodb.com/products/tools/compass
+        Once complete, Compass will launch and click the connect button, to ensure everything is running
            Upon a successful connect, all collections will be displayed.
-   
+```   
 2) Postman Installation
-
-        Download link => https://www.postman.com/downloads/
-
+```
+Download link => https://www.postman.com/downloads/
+```
 3) Knowledge of Gitbash
 
 4) Completed the MERN--client Tutorial

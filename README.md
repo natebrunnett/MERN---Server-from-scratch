@@ -1,22 +1,21 @@
 # Introduction
-Hi web devs!  This tutorial is intended for a beginner who wants to get a MERN server up and running from scratch on Windows. The Mongodb website also has a useful ai chatbot for any specific questions regarding the Windows CL commands for MONGOSH and `mongod` as a Windows service.
+Hi web devs!  This tutorial is intended for a beginner who wants to get a MERN server up and running from scratch on Windows. The MongoDB website also has a useful ai chatbot for any specific questions regarding the Windows CL commands for MONGOSH and `mongod` as a Windows service.
 
 # Prerequisites
-1) Installation of Mongodb as service
+1) Installation of MongoDB as service
 
 ```
 Download the installer (.msi) => https://www.mongodb.com/try/download/community
-        Run the .msi
-           Next, next, next all the way to finish
-           Just use the default location
-           By default the .msi will install MongoDB Compass and install as a Windows Service (and run)
-           At the end make sure to approve as Administator on Windows
-           The MongoDB Compass installation can hang for 10 minutes (this is normal)
-        If for some reason MongoDB Compass doesn't install here is the link
-           => https://www.mongodb.com/products/tools/compass
-        Once complete, Compass will launch and click the connect button, to ensure everything is running
-           Upon a successful connect, all collections will be displayed.
-           This is all for now.
+  Run the .msi
+   1.01) Next, next, next all the way to finish
+   1.02) Just use the default location
+   1.03) By default the .msi will install MongoDB Compass and install as a Windows Service (and run)
+   1.04) At the end make sure to approve as Administator on Windows
+   1.05) The MongoDB Compass installation can hang for 10 minutes (this is normal)
+   e) If for some reason MongoDB Compass doesn't install here is the link
+     e.01) => https://www.mongodb.com/products/tools/compass
+   fin) Once complete, Compass will launch and click the connect button, to ensure everything is running
+     fin.01) Upon a successful connect, all collections will be displayed. This is all for now.
 ```   
 2) Postman Installation
 ```

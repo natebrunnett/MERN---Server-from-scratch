@@ -49,5 +49,5 @@ Download link => https://www.postman.com/downloads/
    `$ nodemon`
    You should see 'connected to the db'
 
-9) If the `home-routes.js` and `stats-nodel.js` are configured correctly, then in MongoDBCompass the DB folder should be created by default with the collection inside.
+9) If the `home-routes.js` and `stats-model.js` are configured correctly, then in MongoDBCompass the DB folder should be created by default with the collection inside.
         

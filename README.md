@@ -36,7 +36,7 @@ Download link => https://www.postman.com/downloads/
 4) `$ npm i mongoose express cors`
    This command will install mongoose and express, which is our database and cors for additional debugging purposes
 
-5) `$ touch home-routes stats-model.js index.js`
+5) `$ touch home-routes.js stats-model.js index.js`
    This command will create empty files with the proper naming conventions for our app
 
 6) In a seperate window you can open the MERN--Server-from-scratch repo and I would recommend coding line by line instead of copy and pasting.
